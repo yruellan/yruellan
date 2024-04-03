@@ -1,6 +1,6 @@
 - I’m @yruellan
 - I'm studying math, physics and computer science
-- I program in Python, Processing (Java), and C++
+- I program in Python, Processing (Java), GLSL (for GPU) and C++
 
 <!---
 yruellan/yruellan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
