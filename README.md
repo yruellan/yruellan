@@ -1,4 +1,9 @@
 # About me
+<!--
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+-->
+
 - I’m @yruellan
 - I'm studying math, physics and computer science
 - I program in Python, Processing (Java), GLSL (for GPU) and C++
