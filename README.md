@@ -6,7 +6,8 @@
 
 - I’m @yruellan
 - I'm studying math, physics and computer science
-- I program in Python, Processing (Java), GLSL (for GPU) and C++
+- I program in Python, OCaml and Processing (Java)
+- I know GLSL (for GPU) and C++
 - I'm learning Rust
 
 
